@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  background-color: rgb(64, 83, 83);
+  border-radius: 30px;
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  color: #fff;
+  font-weight: bold;
+}
